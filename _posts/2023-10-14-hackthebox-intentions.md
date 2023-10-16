@@ -4,7 +4,6 @@ title: HackTheBox - Intentions Writeup
 date: 2023-10-14
 categories: [Capture The Flag]
 tags: [ctf, sqli, sqlmap, imagick, git, cve-2023-4911]     # TAG names should always be lowercase
-imgage: /assets/img/post/intentions/f51a05c5eceb08937686766c1b7de0cc.png
 permalink: "/ctf/hackthebox-intentions/"
 ---
 <p align="left"><img width="280" height="280" src="https://www.hackthebox.com/storage/avatars/f51a05c5eceb08937686766c1b7de0cc.png"></p>
