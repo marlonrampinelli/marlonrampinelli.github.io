@@ -11,8 +11,8 @@ order: 4
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marlon-bruno-da-silva-rampinelli-6722a419b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/@c4st13l/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/marlon-bruno-da-silva-rampinelli-6722a419b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://www.youtube.com/@c4st13l/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 
@@ -24,7 +24,7 @@ order: 4
 ### Badges:
 
 <p align="left">
-<a href="https://www.credly.com/badges/631d38ba-24c3-4ed1-8367-0910c2949a94/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" alt="oswp" width="40" height="40"/></a>
+<a href="https://www.credly.com/badges/631d38ba-24c3-4ed1-8367-0910c2949a94/public_url" target="_blank" rel="noreferrer"><img src="/assets/img/badges/oswp.png" alt="oswp" width="40" height="40"/></a>
 </p>
 
 ### Certifications:
