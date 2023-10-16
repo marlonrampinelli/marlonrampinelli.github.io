@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://marlonrampinelli.github.io/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/categories/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/archives/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/about/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/ctf/hackthebox-intentions/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/ctf/hackthebox-templated/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/offsec/wordpress-hacking/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/ctf/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/cve-2023-4911/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/git/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/imagick/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/sqli/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/sqlmap/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/ssti/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/web-challenges/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/tags/wordpress/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/categories/capture-the-flag/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marlonrampinelli.github.io/categories/offensive-security/</loc>
+  <lastmod>2023-10-14T15:12:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
